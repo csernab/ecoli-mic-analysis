@@ -1,6 +1,6 @@
 # Antimicrobial resistance in Spanish livestock *E. coli*
 
-This repository contains the anonymized data and R scripts used to analyse
+This repository contains the data and R scripts used to analyse
 phenotypic antimicrobial resistance in indicator and third-generation
 cephalosporin-resistant (3GCR) *Escherichia coli* from Spanish livestock,
 2014-2023.
